@@ -51,4 +51,5 @@ Python · PyTorch · OpenCV · COLMAP / pycolmap · SAM2 · NumPy / SciPy · Ope
 
 ### Reach me
 
-<!-- add what you are comfortable making public: email, LinkedIn -->
+**[LinkedIn — Hugo Lequy](https://www.linkedin.com/in/hugo-lequy-8b5542310)** ·
+open to research and R&D internships.
